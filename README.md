@@ -1,5 +1,10 @@
-I am Shreyash mahajan
-I am learning react js development course
-this is the assignemnt
-where i have to create a readmefile
-and push it to the github
+# Shreyash Mahajan Portfolio
+I am Shreyash mahajan, and i am learning frond end development. 
+
+This is level zero course and it's a part of assignment. I am learning a lot and very happy doing this.
+
+This are some of the skills which i have learnt till now : 
+
+1. Javascript
+2. NodeJS
+3. repl.it
